@@ -1,3 +1,15 @@
+<<<<<<< HEAD
 helloNew
 helloNewTwoThree
+helloNewTwoThreeFourFive
+=======
+hello
+helloNewTwo
+helloNewTwoThreeFour
+>>>>>>> branch2
+hello
+helloNew
+helloNewTwo
+hellowNewTwoThree
+helloNewTwoThreeFour
 helloNewTwoThreeFourFive
